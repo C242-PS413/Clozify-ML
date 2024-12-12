@@ -1,7 +1,9 @@
    # Bangkit 2024 Capstone Project [C242-PS413] : Clozify
 
+---
+# Clozify - Personalized Fashion Recommendation System
 
-Hello everyone! This is the repository for our Bangkit 2024 Capstone project. Our team consists of 3 Machine Learning Engineers, 2 Cloud Computing Specialists, and 2 Mobile Developer.
+Welcome to **Clozify**, the Bangkit 2024 Capstone Project for Team **C242-PS413**. Clozify is an innovative mobile application that recommends personalized outfits based on the user's mood and the weather, combining machine learning, cloud computing, and mobile development to create a seamless, data-driven fashion experience.
 
 ---
 
@@ -20,13 +22,34 @@ Here is the list of members of the C242-PS413 team:
 
 ---
 
-## Abstract
+## Project Overview
 
-Clozify is a mobile application 
+**Clozify** is a mobile application designed to recommend daily outfits that align with the user's mood and weather conditions. The app uses **machine learning** to detect facial expressions, classifying the user's emotional state, and then suggests outfits based on both their mood and the current weather. This approach provides personalized, practical, and mindful dressing solutions, enhancing user satisfaction while promoting emotional well-being.
 
+---
 
-Key features of NutriMate include:
-- 
+## Key Features
+
+- **Mood Detection**: Utilizes facial expression analysis to recognize the user's mood through machine learning.
+- **Weather Integration**: Incorporates real-time weather data to suggest weather-appropriate clothing.
+- **Personalized Recommendations**: Outfits are recommended based on both the user's mood and weather conditions.
+- **User-Friendly Interface**: Simple, intuitive mobile interface for submitting mood, weather, and receiving outfit suggestions.
+- **Cloud Integration**: Real-time synchronization and storage using cloud services, providing reliable backend support for the app.
+
+---
+
+## Technologies Used
+
+- **Machine Learning**: 
+  - **TensorFlow**: For mood recognition model.
+  - **ResNet50**: Embeddings for outfit recommendations.
+  - **Cosine Similarity**: For matching outfits based on mood and weather.
+  
+- **Mobile Development**:
+  - **Kotlin**: For building the cross-platform mobile app.
+  
+- **Cloud Computing**:
+  - 
 
 ---
 
