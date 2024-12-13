@@ -55,11 +55,12 @@ Many individuals struggle with daily outfit decisions, often influenced by facto
 - **Mobile Development**:
   - **Kotlin**: For building the cross-platform mobile app.
   - **Retrofit**: Handle API requests.
+  - **CameraX**: FOr taking picture of user.
   - **MVVM Architecture**: Ensure modularity and clean code.
   
 - **Cloud Computing**:
   - **Firebase**: For store data.
-  - **FastAPI**: For deploy the model and connect
+  - **FastAPI**: For deploy the model and connect.
   - **Postman**: Testing APIs and analyzing HTTP requests like GET, POST, PUT, DELETE.
 
 
